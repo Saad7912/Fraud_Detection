@@ -1,1 +1,2 @@
 # Fraud_Detection
+This repository contains a machine learning project aimed at identifying fraudulent transactions using logistic regression, a statistical analysis method. The project uses various transaction-related features to predict whether a given transaction is fraudulent.
